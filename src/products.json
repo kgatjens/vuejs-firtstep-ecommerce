@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Lego City Hospital",
+    "image": "https://bit.ly/2LcaycC",
+    "price": 105
+  },
+  {
+    "id": "2",
+    "title": "Lego City Police",
+    "image": "https://bit.ly/2GsWuwA",
+    "price": "140"
+  },
+  {
+    "id": "3",
+    "title": "Lego City Port",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61ISFY1cL-L._SL1000_.jpg",
+    "price": "120"
+  },
+  {
+    "id": "4",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "5",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "6",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "7",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "8",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "9",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "10",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "11",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  },
+  {
+    "id": "12",
+    "title": "Lego City Train",
+    "image": "https://www.bigw.com.au/medias/sys_master/images/images/h7f/h4a/11988377665566.jpg",
+    "price": "140"
+  }
+]
